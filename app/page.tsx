@@ -14,10 +14,10 @@ export default function Home() {
         
         {/* Links will be added here */}
         <div className="mt-8 flex flex-col gap-4">
-          <Link href="/movie-finder" className="text-xl font-semibold text-blue-600 dark:text-blue-500">
+          <Link href="/movie-finder/privacy" className="text-xl font-semibold text-blue-600 dark:text-blue-500">
             Movie Finder
           </Link>
-          <Link href="/show-seek" className="text-xl font-semibold text-blue-600 dark:text-blue-500">
+          <Link href="/show-seek/privacy" className="text-xl font-semibold text-blue-600 dark:text-blue-500">
             ShowSeek
           </Link>
         </div>
